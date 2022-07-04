@@ -97,7 +97,6 @@
 				247CF8103926E9ED7992AB76 /* Pods-Empty.debug.xcconfig */,
 				EDFEA72689AFA953E1853C13 /* Pods-Empty.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -345,6 +344,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = 9CVMN4UZK4;
+				ENABLE_BITCODE = NO;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = Empty/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
